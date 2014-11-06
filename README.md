@@ -6,7 +6,7 @@ from eclipse
 ##First Step  
 mark sure your eclipse has the plug-in named egit,then create a new project  
 and right click your project->Team->Share project->git->next,click the button  
-"Create Repository" and there will be a ".git" in your project directory.  
+"Create Repository" and there will be a `.git` in your project directory.  
 
 ##Second Step  
 choose what you don't want to upload to git `Team->Ignore`.  
@@ -28,6 +28,7 @@ next execute
 Finally,you push your project to github.  
 
 ##Fifth Step  
-if you want to synchronize your project,you can do`Team->fetch'`Team->Merge'  
+if you want to synchronize your project,you can do `Team-> Fetch`.
+Next execute `Team->Merge`.
 
 
