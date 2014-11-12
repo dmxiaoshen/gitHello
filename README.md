@@ -29,6 +29,7 @@ Finally,you push your project to github.
 
 ##Fifth Step  
 if you want to synchronize your project,you can do `Team-> Fetch`.
-Next execute `Team->Merge`.
+Next execute `Team->Merge`.  
+if you want push your code,you can do `Team-> Push`.
 
 
